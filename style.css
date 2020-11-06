@@ -1,0 +1,33 @@
+.card-body {
+  min-height: 5px;
+  min-width: 5px;
+  background-color: rgb(223, 136, 136);
+  text-align: center;
+  border: salmon;
+}
+
+.container {
+  text-align: center;
+  align-content: center;
+  border: slategray;
+}
+
+.placeholder {
+  box-lines: dotted;
+}
+
+.card-footer {
+  min-width: 50px;
+  min-height: 50px;
+  text-align: center;
+  align-content: center;
+}
+
+.card-header {
+  align-content: center;
+  text-align: left;
+}
+
+.title {
+  align-content: center;
+}
