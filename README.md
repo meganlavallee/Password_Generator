@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+Introduction:
+This assignment was to make a copy of the original website.   
 
-You can use the [editor on GitHub](https://github.com/meganlavallee/Password_Generator/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+User Story:
+The user will be able to go through the website to see what this company has to offer. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Technological Outline:
+HTML and CSSwere made for the project to begin.  As the HTML was being created the CSS was going along as needed with styling to make the webpage pretty.  
 
-### Markdown
+Division of Labor:
+I, Megan, soley did all work for this.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Conclusion:
+This website is a good building block for other webpages in the future. 
 
-```markdown
-Syntax highlighted code block
+Deployment:
+Deployment will be on webpage through Github. Users will be able to view through webpage listed down below as well. 
 
-# Header 1
-## Header 2
-### Header 3
+Conclusion:
+Webpage is a building block. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Link to deployed app
+https://meganlavallee.github.io/Code_Refractor/
 
-**Bold** and _Italic_ and `Code` text
+Contact Information: 
+Megan Lavallee
+megan.lavallee@yahoo.com
+719-321-8559
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meganlavallee/Password_Generator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Licensing Agreement:
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>
