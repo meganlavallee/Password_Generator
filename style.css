@@ -1,6 +1,6 @@
 .card-body {
-  min-height: 5px;
-  min-width: 5px;
+  min-height: 25px;
+  min-width: 25px;
   background-color: rgb(223, 136, 136);
   text-align: center;
   border: salmon;
