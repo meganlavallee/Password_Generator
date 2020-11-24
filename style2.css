@@ -7,19 +7,28 @@
   padding-bottom: 35%;
 }
 
-.header{
-}
-
 .content {
+  text-align: center;
 }
 
 .card-header {
+  
 }
 
 .password-area {
+  padding: 20px;
+  height: fit-content;
+}
+
+#password{
+  height: 300px;
+  width: 600px;
+  text-align: center;
 }
 
 .generate-password-button {
+  padding: 10px;
+  
 }
 
 .btn {
