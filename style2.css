@@ -10,6 +10,11 @@
 
 .content {
   text-align: center;
+  border-style: solid;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
   box-sizing: border-box;
   border: forestgreen;
 }
@@ -39,8 +44,17 @@
 .generate-password-button {
   padding: 10px;
   color: red;
+  border-radius: 50%;
 }
 
-.btn {
-  color: red;
+.button {
+  background-color:red;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 40px 20px;
 }
