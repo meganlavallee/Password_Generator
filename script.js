@@ -1,7 +1,7 @@
-var lowercase = abcdefghijklmnopqrstuvwxyz
-var uppercase = abcdefghijklmnopqrstuvwxyz
-var numbers = 0123456789
-var specialCharacters = !@#$%^&*()-=+_. 
+const lowercase = abcdefghijklmnopqrstuvwxyz
+const uppercase = abcdefghijklmnopqrstuvwxyz
+const numbers = 0123456789
+const specialCharacters = !@#$%^&*()-=+_. 
 
 promptCharacters("How Many Characters Would You Like?")
 promptLowercase("Do you want lower case letters?")
@@ -31,9 +31,3 @@ promptNum("Do you want numbers?")
      
  }
  
- //<button id = "increament">Increament</button>
-//var button =document.querySelector("Increament")
-//Increament.addEventListener("click", handleIncreament)
-//function handleIncreament() {
-//count ++;
-//contelEL.textContent = count;
