@@ -7,6 +7,7 @@ const textArea = document.querySelector('#password');
 function generatePassword() {
 
   // Characters
+  const length = document.querySelector("length").value;
   const upperCharacter = document.querySelector("#upperCase");
   const lowerCharacter = document.querySelector("#lowerCase");
   const numbers = document.querySelector("#numbers");
@@ -41,5 +42,26 @@ function generatePassword() {
     character += special;
   }
 
+// For Loop
+for (let i = 0; i < length; i++) {
+  const randonNumber = Math.floor(Math.random() * character.length);
   
+  password += character.charAt(randonNumber);
+  console.log(password);
 }
+
+document.querySelector("#password").textContent = password;
+}
+
+// Length
+let length = document.getElementById("length");
+const output = document.getElementById("demo");
+// output.innerHTML = length.value; // Display the default slider value
+
+// Update the current slider value (each time you drag the slider handle)
+// length.oninput = function () {
+  output.innerHTML = this.value;
+// };
+
+// Add event listener to generate button
+generateBtn.addEventListener("click", generatePassword);
