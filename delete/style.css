@@ -1,0 +1,57 @@
+.whole-page {
+  height: 100%;
+  margin: 0%;
+  padding: 0%;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.card-header{
+  text-align: left;
+}
+.boxed {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 5px;
+  border-width: 1px;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
+  color: hsl(206, 17%, 28%);
+  font-size: 18px;
+  margin: 0 auto;
+  max-width: 600px;
+  max-width: 650px;
+  padding: 30px 40px;
+}
+
+
+#password {
+  text-align: center;
+  border-style: dashed;
+  display: block;
+  width: 100%;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 5px;
+  padding-bottom: 85px;
+  font-size: 1.2rem;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px dashed #c0c7cf;
+  border-radius: 6px;
+  resize: none;
+  overflow: hidden;
+}
+
+
+.button {
+  background-color: rgb(177, 87, 87);
+  border: none;
+  border-radius: 80%;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 50px 30px;
+}
