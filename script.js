@@ -43,7 +43,7 @@ function generatePassword() {
     character += special;
   }
   
-  // Double Check
+  // Prompt For User to Double Check Button Pressing
   if (character === "") {
     alert("Please choose options for your password");
   } else {
@@ -56,11 +56,11 @@ function generatePassword() {
       
       
       // password += character.charAt(randonNumber);
-      // console.log(password);
+      console.log(password);
     }
   }
   
-  // document.querySelector("#password").textContent = password;
+   document.querySelector("#password").textContent = password;
 }
 
 // Length

@@ -1,6 +1,6 @@
 const lowercase = abcdefghijklmnopqrstuvwxyz
 const uppercase = abcdefghijklmnopqrstuvwxyz
-const numbers = 0123456789
+const numbers = 0123456789;
 const specialCharacters = !@#$%^&*()-=+_. 
 
 promptCharacters("How Many Characters Would You Like?")
